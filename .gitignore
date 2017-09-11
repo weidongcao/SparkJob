@@ -1,2 +1,9 @@
 *.class
 *.log
+target/
+out/
+input/
+.idea/
+SparkJob.iml
+main.zip
+META-INF/MANIFEST.MF
